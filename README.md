@@ -5,4 +5,4 @@
 >>># 3. Then use your Index Finger only  to draw on the presentation.
 >>> # 4. Finally use your Pinky finger slide to the right and thumb for left
 >>> # 5. Fold all other fingers as you point the fingers mentioned above and use one hand
->>> £ 6. Use Q to exit
+>>> # 6. Use Q to exit
