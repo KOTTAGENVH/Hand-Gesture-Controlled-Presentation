@@ -53,7 +53,7 @@ while True:
         lmList = hand["lmList"]  
         fingers = detectorHand.fingersUp(hand)  # List of which fingers are up
 
-        # Constrain values for easier drawing
+        # Constrain values for easier drawing Into the middle not going too down so no detection or too up
         xVal = int(np.interp(lmList[8][0], [width // 2, width], [0, width]))
         yVal = int(np.interp(lmList[8][1], [150, height-150], [0, height]))
         indexFinger = xVal, yVal
